@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Calamity-Medical
+The new set of Calamity programs, this time for medical pros.
 
-You can use the [editor on GitHub](https://github.com/Blowzart/Calamity-Medical/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Made by professionals
+We've been in the medical industry for over 20 years, from endoscopy to radiology we've seen and done it all, so it may not come as a surprise to you that our new set of programs is at the top of the field.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Open source
+Security is key in the medical industry and that's why Calamity Medical is open source, it allows anybody to see and modify it and to make sure we aren't doing anything to put the security of the people at risk.
 
-### Markdown
+## Stress tested
+We've tested Calamity Medical for over 300 hours in 28,000 different circumstances and it was always correct and effecient.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Highly rated
+Come here what our users have to say about Calamity Medical
 
-```markdown
-Syntax highlighted code block
+### Stephanie
+It's probably the fastest set of medical programs i've used, I'd go as far as to say it's too easy.
 
-# Header 1
-## Header 2
-### Header 3
+### Nicholas
+I've never seen such a secure medical program in my 7 years in the industry, never once has any of my patient's data been leaked. It's a blessing from the lord.
 
-- Bulleted
-- List
+### Joseph
+During the toughest of times Calamity Medical is always there for me and everybody else, I never have to stress about making a wrong calculation, or putting my patients at risk.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Blowzart/Calamity-Medical/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Developers
+For developers look here.
