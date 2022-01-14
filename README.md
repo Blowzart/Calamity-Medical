@@ -21,3 +21,7 @@ I've never seen such a secure medical program in my 7 years in the industry, nev
 
 ### Joseph
 During the toughest of times Calamity Medical is always there for me and everybody else, I never have to stress about making a wrong calculation, or putting my patients at risk.
+
+
+## End of lifespan
+Calamity Medical or CMED has reached its end of life see https://sites.google.com/view/calamity-software/devlog for more information.
